@@ -1,0 +1,12 @@
+
+[alias]
+	a = add .
+	b = branch
+	ch = checkout
+	cm = commit -m
+	f = fetch
+	p = push origin
+	s = status
+[pager]
+	branch = false
+	stash = false
