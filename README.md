@@ -10,6 +10,8 @@ I recommend [Oh My Zsh](https://ohmyz.sh/)
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 - [Cinch](http://www.irradiatedsoftware.com/cinch/) window maximizer
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) window closer
+- [Insomnia](https://insomnia.rest/) API client
+- [SequelPRO](http://www.sequelpro.com/)
 
 *Windows* recommendations:
 - [FluentTerminal](https://github.com/felixse/FluentTerminal)
