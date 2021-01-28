@@ -2,7 +2,7 @@
 
 This is a backup of some of my terminal configuration.
 
-I recommend [Oh My Zsh](https://ohmyz.sh/) with the [autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) plugin.
+I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) and [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) plugins.
 
 *Mac* recommendations:
 - [Hyper](https://hyper.is/) terminal
