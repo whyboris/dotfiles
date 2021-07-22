@@ -15,3 +15,7 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 
 *Windows* recommendations:
 - [FluentTerminal](https://github.com/felixse/FluentTerminal)
+
+*npm* recommendations:
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
+- [git-open](https://github.com/paulirish/git-open)
