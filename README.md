@@ -19,3 +19,7 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 *npm* recommendations:
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
 - [git-open](https://github.com/paulirish/git-open)
+
+*git* commands:
+- `for BRANCH in `git branch`; do git checkout $BRANCH; git merge main; done` (merge `main` into all local branches)
+- `for BRANCH in `git branch`; do git push origin $BRANCH; done` (push all local branches to `origin`)
