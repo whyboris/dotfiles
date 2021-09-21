@@ -21,5 +21,11 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 - [git-open](https://github.com/paulirish/git-open)
 
 *git* commands:
-- `for BRANCH in `git branch`; do git checkout $BRANCH; git merge main; done` (merge `main` into all local branches)
-- `for BRANCH in `git branch`; do git push origin $BRANCH; done` (push all local branches to `origin`)
+- merge `main` into all local branches
+```sh
+for BRANCH in `git branch`; do git checkout $BRANCH; git merge main; done
+``` 
+- push all local branches to `origin`
+```sh
+for BRANCH in `git branch`; do git push origin $BRANCH; done
+```
