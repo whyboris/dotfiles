@@ -12,6 +12,8 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) window closer
 - [Insomnia](https://insomnia.rest/) API client
 - [SequelPRO](http://www.sequelpro.com/)
+- [Add spaces to your Mac dock](https://www.imore.com/add-space-your-mac-dock)
+    - `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall`
 
 *Windows* recommendations:
 - [FluentTerminal](https://github.com/felixse/FluentTerminal)
