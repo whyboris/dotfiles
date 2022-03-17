@@ -6,14 +6,20 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 
 *Mac* recommendations:
 - [Hyper](https://hyper.is/) terminal
-- [Day-0](https://shauninman.com/archive/2020/04/08/day_o_mac_menu_bar_clock_for_catalina) calendar
+
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
-- [Cinch](http://www.irradiatedsoftware.com/cinch/) window maximizer
-- [RedQuits](http://www.carsten-mielke.com/redquits.html) window closer
+
+
 - [Insomnia](https://insomnia.rest/) API client
 - [SequelPRO](http://www.sequelpro.com/)
+- [Rectangle](https://rectangleapp.com/) window maximizer
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) keyboard remapper
 - [Add spaces to your Mac dock](https://www.imore.com/add-space-your-mac-dock)
     - `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall`
+
+*Mac* _maybe_ recommendations:
+- [Cinch](http://www.irradiatedsoftware.com/cinch/) window maximizer
+- [RedQuits](http://www.carsten-mielke.com/redquits.html) window closer
 
 *Windows* recommendations:
 - [FluentTerminal](https://github.com/felixse/FluentTerminal)
