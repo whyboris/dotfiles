@@ -6,10 +6,7 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 
 *Mac* recommendations:
 - [Hyper](https://hyper.is/) terminal
-
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
-
-
 - [Insomnia](https://insomnia.rest/) API client
 - [SequelPRO](http://www.sequelpro.com/)
 - [Rectangle](https://rectangleapp.com/) window maximizer
