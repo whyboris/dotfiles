@@ -1,0 +1,19 @@
+// for VSCode
+[
+  {
+    "key": "shift+cmd+d",
+    "command": "editor.action.duplicateSelection"
+  },
+  {
+    "key": "cmd+t",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "alt+tab",
+    "command": "workbench.action.nextEditor"
+  },
+  {
+    "key": "shift+alt+tab",
+    "command": "workbench.action.previousEditor"
+  }
+]
