@@ -1,0 +1,22 @@
+{
+  "title": "F6 mapped to Ctrl + C in Dvorak",
+  "rules": [
+      {
+          "description": "F6 breaks terminal process",
+          "manipulators": [
+              {
+                  "from": {
+                      "key_code": "f6"
+                  },
+                  "to": [
+                      {
+                          "key_code": "i",
+                          "modifiers": ["left_control"]
+                      }
+                  ],
+                  "type": "basic"
+              }
+          ]
+      }
+  ]
+}
