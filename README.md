@@ -25,6 +25,9 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
 - [git-open](https://github.com/paulirish/git-open)
 
+*node* recommendations:
+- [fnm](https://github.com/Schniz/fnm) _Fast Node Manager_ (replaces `nvm`)
+
 *git* commands:
 - merge `main` into all local branches
 ```sh
