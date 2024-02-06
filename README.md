@@ -21,6 +21,8 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 
 *Windows* recommendations:
 - [FluentTerminal](https://github.com/felixse/FluentTerminal)
+- [Alacritty](https://github.com/alacritty/alacritty)
+    - Create config file `%APPDATA%\alacritty\alacritty.yml`
 
 *npm* recommendations:
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
