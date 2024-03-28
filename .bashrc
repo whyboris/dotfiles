@@ -1,4 +1,4 @@
-# User specific aliases and functions
+# User specific aliases and functions for Mac
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
