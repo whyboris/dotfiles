@@ -1,0 +1,19 @@
+working_directory = 'C:\Code'
+
+[shell]
+program = 'C:\Program Files\Git\bin\bash.exe'
+
+[window]
+dynamic_title = false
+title = "Boris is coding"
+
+[window.dimensions]
+columns = 170
+lines = 47
+
+[window.padding]
+x = 20
+
+[window.position]
+x = 3
+y = 200
