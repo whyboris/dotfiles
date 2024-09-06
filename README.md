@@ -25,7 +25,7 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 
 - [FluentTerminal](https://github.com/felixse/FluentTerminal)
 - [Alacritty](https://github.com/alacritty/alacritty)
-  - Create config file `%APPDATA%\alacritty\alacritty.yml`
+  - Create config file `%APPDATA%\alacritty\alacritty.toml`
 - open `~`, create `.bashrc` and fill it with aliases from [alias.md](alias.md)
 
 *npm* recommendations:
