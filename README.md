@@ -29,6 +29,10 @@ I recommend [Oh My Zsh](https://ohmyz.sh/) with the [zsh-autosuggestions](https:
 - open `~`, create `.bashrc` and fill it with aliases from [alias.md](alias.md)
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) for better audio control
 
+*Phone* recommendations:
+
+- [LocalSend](https://localsend.org/) to quickly send files from your phone to your PC
+
 *npm* recommendations:
 
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli)
