@@ -21,8 +21,12 @@ alias popo='source ~/Desktop/python/venv/bin/activate'
 # OTHER
 alias brewski='brew update && brew upgrade && brew cleanup; brew doctor'
 
-# alias l='ls -la | grep "^d" && ls -la | grep -v "^d"'
+# for the below to work, you may need to remove the `alias l=` entry 
+#   inside the `.oh-my-zsh/lib/directories.zsh` file
+#   and `brew install coreutils` to have access to `gls`
 alias l='gls --color -h --group-directories-first -1a'
+# crappy alternative below:
+# alias l='ls -la | grep "^d" && ls -la | grep -v "^d"'
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/byakubchik/.oh-my-zsh
